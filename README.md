@@ -58,5 +58,6 @@ The **Canteen Management System** enables users to order food online from the ca
 
 ```md
 ![Login Page](-screenshots/login.png)
+screenshots/token.png
 ![User Home](screenshots/user-home.png)
 ![Admin Dashboard](screenshots/admin-dashboard.png)
