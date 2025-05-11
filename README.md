@@ -56,13 +56,19 @@ The **Canteen Management System** enables users to order food online from the ca
 
 > _Here Are Some Screenshots :_
 
-
+### 🧑‍💻 User Login Page
 ![Login Page](screenshots/login.png)
+### 🧑‍💻 Admin Home Page
 ![Admin Dashboard](screenshots/admin-home.png)
+### 🧑‍💻 Admin Category Page
 ![Admin Dashboard](screenshots/category.png)
+### 🧑‍💻 Admin Product Page
 ![Admin Dashboard](screenshots/product.png)
-
-![Admin Dashboard](screenshots/orders.png)
+### 🧑‍💻 User Pay Page
+![Admin Dashboard](screenshots/pay&pick.png)
+### 🧑‍💻 User Token Page
 ![Admin Dashboard](screenshots/token.png)
-![User Home](screenshots/user-home.png)
+### 🧑‍💻 Admin Orders Page
+![Admin Dashboard](screenshots/orders.png)
+
 
