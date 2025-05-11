@@ -3,10 +3,10 @@
 A full-stack web-based application designed to streamline and digitalize canteen operations including food ordering, payment, and pickup scheduling.
 
 ## 📌 Table of Contents
-- [About the Project](#about-the-project)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Screenshots](#screenshots)
+- [About the Project](#-about-the-project)
+- [Tech Stack](#-tech-stack)
+- [Features](#-features)
+- [Screenshots](#-screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
