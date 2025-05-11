@@ -7,11 +7,6 @@ A full-stack web-based application designed to streamline and digitalize canteen
 - [Tech Stack](#-tech-stack)
 - [Features](#-features)
 - [Screenshots](#-screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributors](#contributors)
-- [License](#license)
 
 ---
 
@@ -59,7 +54,7 @@ The **Canteen Management System** enables users to order food online from the ca
 
 ## 📷 Screenshots
 
-> _You can add actual screenshots of your app here using:_
+> _Here Are Some Screenshots :_
 
 ```md
 ![User Home](screenshots/user-home.png)
